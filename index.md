@@ -11,6 +11,10 @@ https://github.com/allolib-s21/demo1-colette-lee/blob/master/tutorials/synthesis
 
 ## Graphics
 Edited the Subtractive Synthesis tutorial to add graphics to my composition.
-Meant to be display graphics for pythondraft.synthSequence.
+Meant to display graphics for pythondraft.synthSequence.
 
 https://github.com/allolib-s21/demo1-colette-lee/blob/master/tutorials/synthesis/083_Sub_graphics.cpp
+
+Used Adam's Subtractive Synthesis sounds to make a composition and edited the graphics. Meant to display graphics for faytra.synthSequence.
+
+https://github.com/allolib-s21/demo1-colette-lee/blob/master/tutorials/synthesis/084_Sub_graphics.cpp
