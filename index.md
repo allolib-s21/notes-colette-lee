@@ -8,3 +8,8 @@ Press alt to toggle seventh chords on/off. Default is off.
 Left and right arrow keys to change octave.
 
 https://github.com/allolib-s21/demo1-colette-lee/blob/master/tutorials/synthesis/081_Sub_Chords.cpp
+
+## Graphics
+Edited the Subtractive Synthesis tutorial to add graphics to my composition.
+Meant to be display graphics for pythondraft.synthSequence.
+https://github.com/allolib-s21/demo1-colette-lee/blob/master/tutorials/synthesis/083_Sub_graphics.cpp
